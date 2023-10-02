@@ -78,11 +78,15 @@ button{
 .illustration{
     margin-top: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
+    align-items: center;
     gap: 70px;
 }
 .illustration div{
     font-size: 18px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 }
 .quote{
     background-color: #e5e7eb;
