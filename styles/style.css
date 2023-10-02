@@ -58,6 +58,10 @@ button{
     font-size: 18px;
     font-weight: 900;
 }
+img{
+    height: 200px;
+    width: auto;
+}
 .information{
     text-align: center;
     padding-top: 50px;
@@ -87,6 +91,8 @@ button{
     align-items: center;
     display: flex;
     flex-direction: column;
+    width: 150px;
+    flex-wrap: wrap;
 }
 .quote{
     background-color: #e5e7eb;
